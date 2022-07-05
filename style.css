@@ -1,0 +1,27 @@
+h3{
+
+width: 540px;
+height: 142px;
+font-family: 'Quattrocento';
+font-weight: 400;
+font-size: 64px;
+line-height: 71px;
+padding-left: 455px;
+
+color: #000000;
+
+}
+
+div{
+    text-align: center;
+}
+
+button{
+font-family: 'Quattrocento';
+width: 200px;
+height: 50px;
+border-radius: 205px;
+
+background: #000000;
+color: white;
+}
