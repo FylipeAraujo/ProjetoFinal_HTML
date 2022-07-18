@@ -1,0 +1,83 @@
+body{
+    background-image: url(fundo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    font-family: 'Quattrocento';
+    padding: 20px;
+    position: relative;
+    align-items: center;
+}
+.logo{
+float: left;
+
+}
+
+
+#navegacao{ 
+    bottom: 60px;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    padding-top: 100px;
+}
+
+.user{
+    float: right;
+
+}
+input {
+    border-radius: 100px;
+    background-color:white;
+    
+    }
+    
+    a{
+    text-decoration: none;
+    
+    }
+    h1{
+    
+        width: 900px;
+        font-size: 48px;
+        font-family: 'Quattrocento';
+        background-image: url(fundo.jpeg);
+        text-align: center;
+    }
+
+
+section{
+    font-family: 'Quattrocento' ;
+    margin: auto;
+    position: relative;
+    text-align: justify;
+    background-color: white;
+    width: max-content;
+    width: 900px;
+    height: 700px;
+    padding: 60px;
+    border-radius: 60px;
+}
+iframe{
+    width:900px; 
+    height:450px;
+    border-style: 0px; 
+   
+
+}
+
+
+
+.informacao{
+
+    text-align: justify;
+    float: left;
+}
+
+
+p{
+    font-size: 30px;
+    text-align: justify;
+}
